@@ -398,7 +398,7 @@ end
 
 --unreleased emotes
 AddEmote("Arm Wave", 5915773155)
-AddEmote("Head Banging", 17746270218)
+AddEmote("Head Banging", 13051316119)
 AddEmote("Face Calisthenics", 9830731012)
 
 --wait for emotes to finish loading
